@@ -4,7 +4,7 @@
 
 	if ($_POST) {
 	
-		// Personal Note: DropboxUploader.php is not mine, and this would not be possible withouth the example
+		// Personal Note: DropboxUploader.php is not mine, and this would not be possible without the example
 		// code at [http://jaka.kubje.org/].
 		require 'DropboxUploader.php';
 	

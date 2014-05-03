@@ -3,7 +3,9 @@
 2.5.0 (3 May 2014)
 - New Imagehost (same server as the uploader is on.
  - (Why didn't I do this sooner? Oh Bandwidth concerns.)
-- Changelog can now be found on Github 
+- Changelog can now be found at http://weblab.cs.uml.edu/~rdupuis/gamefaqs-avatars/changelog.txt
+- Userscript can now be found at http://weblab.cs.uml.edu/~rdupuis/gamefaqs-avatars/gamefaqs-avatars.user.js
+ -  It can still be found on Userscripts.org if you can access it.
 
 2.3.2 (19 March 2014)
 - Added compatibility for new Upload Page with Gameweasel. Users should not be experiencing display issues now.

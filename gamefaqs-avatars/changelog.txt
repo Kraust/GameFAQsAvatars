@@ -1,0 +1,71 @@
+# GameFAQs-Avatars Changelog
+
+2.5.0 (3 May 2014)
+- New Imagehost (same server as the uploader is on.
+ - (Why didn't I do this sooner? Oh Bandwidth concerns.)
+- Changelog can now be found on Github 
+
+2.3.2 (19 March 2014)
+- Added compatibility for new Upload Page with Gameweasel. Users should not be experiencing display issues now.
+
+2.3.0 (17 March 2014)
+- Added new Avatar Interface
+- Avatar Display can now be set globally
+- Removed old upload interface in topics
+- No users should have issues uploading avatars now (seriously).
+
+2.2.2 (8 March 2014)
+- EXPERIMENTAL: Users with a two different usernames can upload an Avatar on the user.php page: http://www.gamefaqs.com/boards/user.php (Thanks Nade Duck)
+
+2.2.0 (7 March 2014)
+- Fixed a long persisting issue of url unfriendly characters (spaces) not being treated properly. You
+may need to upload a new avatar if you face any issues.
+
+2.1.4
+- GameFAQs default formatting if a user does not have an avatar uploaded (removes so not needed whitespace).
+
+2.1.3
+- All previous css errors should be resolved.
+
+2.1.2
+- Fixed a mobile issue where screens with a width of less than 780px would have issues with the avatars.
+ - "Avatars to the Right" still has issues with these Widths, I have an idea on why this is however.
+
+2.1.1
+- Cleaned up some messy code (because of this people may be more or less compatible now!)
+  - This means that users using Avatars to the left + Message Poster Display: Above message may or may not kill me now.
+- Stupid quote / poll bug is gone forever (initial design flaw I discovered while fixing Message Poster Display).
+
+2.1.0
+- Fixed the uploads working when logged out.
+- made upload errors / the upload process more descriptive
+- Page now refreshes when your upload is complete.
+- Stylized the settings button a bit.
+- People should comment the last bit of code (Lines 170-176) out if they 
+  want their default avatars to be no avatars.
+
+previous (posted as is from the old changelog)
+
+2.0.4: Fixed an issue with interaction with Gameweasel (Chrome).
+
+2.0.0: Added File Uploader. Note this interacts with an external PHP page, 
+and is a -bit- laggy. It works tho. I also created a dropbox account just
+for this plugin, because prior I was using my own (personal) one. Also I 
+fixed the annoying bug with Polls. If you don't know what I'm talking about. Good.
+
+1.5.5: (I didn't actually change anything, but the changelog was out of date
++ I'm rebranding this as GameFAQs-Avatars.
+
+1.5.2: Changed defaults around to make the plugin less apparent on other
+boards. (Although it does work on other boards...)
+
+1.5.1: Fixed a small bug with the cookie.
+
+1.5: Huge Update that incorporates the ability to toggle between left avatars, 
+right avatars and no avatars from a button located at the top of the message view.
+
+1.4.7: New way of displaying the images. Images are now on the right margin of 
+the page instead of the left. This means however that I ave slightly changed how cite tags are interpreted.
+
+1.4.6: Fixed an issue where Chrome was displaying unneeded white space in cases 
+where there wasn't an avatar to display. (used .remove() instead).

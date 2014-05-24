@@ -1,5 +1,12 @@
 # GameFAQs-Avatars Changelog
 
+2.5.1 (23 May 2014)
+- Removed cookies
+- Added localStorate
+- Users have one global avatar setting now.
+- New site located at http://weblab.cs.uml.edu/~rdupuis/gamefaqs-avatars/
+
+
 2.5.0 (3 May 2014)
 - New Imagehost (same server as the uploader is on.
  - (Why didn't I do this sooner? Oh Bandwidth concerns.)

@@ -1,0 +1,87 @@
+html 
+{
+	background-color: rgb(112, 142, 164);
+	height: 100%;
+	font-family: Verdana, sans-setif;
+}
+
+body 
+{
+	background-color: rgb(255, 255, 255);
+	margin-left: 4em;
+	margin-right: 4em;
+	margin-top: 0em;
+	margin-bottom: 0em;
+	padding-left: 2em;
+	padding-right: 2em;
+	min-height: 100%;
+}
+
+a
+{
+	color: rgb(128, 50, 21);
+	text-decoration: none;
+}
+
+a:hover
+{
+	background-color: rgb(128, 50, 21);
+	color: rgb(255, 255, 255);
+}
+
+.title-container
+{
+	padding-top: 1em;
+}
+
+.title 
+{
+	font-size: 2em;
+}
+
+.nav-bar {
+	padding-top: .5em;
+	padding-bottom: .5em;
+	padding-right: .5em;
+	background-color: rgb(255, 233, 170);
+}
+
+.nav-bar > a
+{
+	padding: .5em;
+}
+
+.avatar
+{
+	max-width: 100px;
+	max-height: 100px;
+}
+
+.avatar-container
+{
+	background-color: rgb(255, 233, 170);
+	text-align: center;
+	display: table-cell;
+	width: 200px;
+	min-height: 100%;
+	padding: 5px;
+}
+
+.avatar-row
+{
+
+}
+
+#avatar-db
+{
+    display: table;
+	padding: 1em;
+    margin: 0 auto;
+	
+}
+
+.avatar-count
+{
+	color: rgb(128, 50, 21);
+	float: right;
+}

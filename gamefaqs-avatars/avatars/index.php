@@ -22,7 +22,7 @@
 <body>
 	<div class='title-container'>
 		<span class='title'>GameFAQs Avatars</span>
-		<div class='nav-bar'><a href='/~rdupuis/gamefaqs-avatars/'>Home</a><a href='https://greasyfork.org/scripts/628-gamefaqs-avatars' target='_blank' >Install</a><a href='gamefaqs-avatars.user.js' target='_blank'>Mirror</a><a href='changelog.txt' target='_blank'>Changelog</a><a href='/~rdupuis/gamefaqs-avatars/avatars/'>Avatar Database</a> <span class='avatar-count'><?php echo "$avatar_count Avatars"; ?></span></div>
+		<div class='nav-bar'><a href='/~rdupuis/gamefaqs-avatars/'>Home</a><a href='https://greasyfork.org/scripts/628-gamefaqs-avatars' target='_blank' >Install</a><a href='/~rdupuis/gamefaqs-avatars/gamefaqs-avatars.user.js' target='_blank'>Mirror</a><a href='/~rdupuis/gamefaqs-avatars/changelog.txt' target='_blank'>Changelog</a><a href='/~rdupuis/gamefaqs-avatars/avatars/'>Avatar Database</a> <span class='avatar-count'><?php echo "$avatar_count Avatars"; ?></span></div>
 	</div>
 	<div>		
 		<div id='avatar-db'>

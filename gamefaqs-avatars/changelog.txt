@@ -1,5 +1,17 @@
 # GameFAQs-Avatars Changelog
 
+2.5.4 (25 June 2014)
+- New display for Avatars to the Left and Message Post Display: Top
+
+2.5.3 (18 June 2014)
+- Users must now signature authenticate to upload an avatar.
+  - This circumnavigates the previous exploit allowing users to upload avatars for others.
+
+2.5.2 (15 June 2014)
+- Added Avatars in most user profiles
+  - Some users may not have avatars in profiles due to having User name/Display name conflicts.
+    (Seriously there's nothing I can do about this, profiles display your User name is a weird place.)
+
 2.5.1 (23 May 2014)
 - Removed cookies
 - Added localStorate

@@ -85,3 +85,8 @@ a:hover
 	color: rgb(128, 50, 21);
 	float: right;
 }
+
+.search {
+	float: right;
+	padding-left: .5em;
+}

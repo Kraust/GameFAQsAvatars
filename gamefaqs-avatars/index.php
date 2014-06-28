@@ -31,8 +31,8 @@
 			who you are on the GameFAQs forums.
 		</p>
 		
-		<p>To use, you need to have a UserScript plugin like <a href='https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/' target='_blank'>Greasefire</a> (Firefox) or <a href='http://tampermonkey.net/' target='_blank'>Tampermonkey</a> (Chrome/Android) installed.</p>
-		<p>Current Version: 2.5.0</p> <!-- Make this Dynamic -->
+		<p>To use, you need to have a UserScript plugin like <a href='https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/' target='_blank'>Greasefire</a> (Firefox) or <a href='https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en' target='_blank'>Tampermonkey</a> (Chrome/Android) installed.</p>
+		<p>Current Version: 2.5.4</p> <!-- Make this Dynamic -->
 	</div>
 	</body>
 </html>
